@@ -1,0 +1,131 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-color: hsl(257, 40%, 49%);
+}
+
+.head {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    color: white;
+    position: absolute;
+    top: 3rem;
+    left: 8rem;
+}
+
+.title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 2.5rem;
+    position: absolute;
+    top: 15rem;
+    left: 52rem;
+    color: white;
+}
+
+.content-1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+    position: absolute;
+    top: 24rem;
+    left: 52rem;
+    color: white;
+    line-height: 1.5;
+}
+
+
+.img-1 {
+    width: 2.5rem;
+    position: absolute;
+    top: 3.7rem;
+    left: 4.8rem;
+
+}
+
+.img1 {
+    width: 2.5rem;
+    position: absolute;
+    bottom: 2rem;
+    left: 73rem;
+    border: 0rem black solid;
+    border-radius: 2.5rem;
+}
+
+.img2 {
+    width: 2.5rem;
+    position: absolute;
+    bottom: 2rem;
+    left: 77rem;
+    border: 0rem black solid;
+    border-radius: 2.5rem;
+}
+
+.img3 {
+    width: 2.5rem;
+    position: absolute;
+    bottom: 2rem;
+    left: 81rem;
+    border: 0rem black solid;
+    border-radius: 2.5rem;
+    fill:  hsl(300, 69%, 71%);;
+}
+
+.main-img {
+    position: absolute;
+    top: 12rem;
+    left: 4.8rem;
+}
+
+.img1:hover{
+    background-color:  hsl(300, 69%, 71%);
+}
+
+.img2:hover{
+    background-color:  hsl(300, 69%, 71%);
+}
+
+.img3:hover{
+    background-color:  hsl(300, 69%, 71%);
+}
+
+
+.btn {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 1.1rem;
+    border: 0rem black solid;
+    border-radius: 2rem;
+    padding: 1.1rem 4rem 1.1rem 4rem;
+    color: hsl(257, 40%, 49%);
+    box-shadow: 6px 6px 6px #4a367d;
+    position: absolute;
+    top: 31rem;
+    left: 52rem;
+}
+
+.btn:hover {
+    background-color: hsl(300, 69%, 71%);
+    color: white;
+
+}
+
+
+
+
+
+
+
+.X {
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    bottom: 1rem;
+    left: 35rem;
+}
